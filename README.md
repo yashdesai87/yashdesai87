@@ -30,7 +30,7 @@ I pair senior architecture discipline with AI-augmented delivery: multi-agent wo
 
 | 🏆 Track record | |
 |:---|:---|
-| Freelancing since | **2011** |
+| Shipping since | **2011** |
 | Projects delivered | **79** |
 | Hours logged | **6,400+** |
 | Job success | **100%** · Top Rated Plus |
