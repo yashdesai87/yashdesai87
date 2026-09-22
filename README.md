@@ -1,6 +1,6 @@
-···—······<div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:FF2D20&height=180&section=header&text=Yash%20Desai&fontSize=52&fontColor=ffffff&desc=Senior%20Architect%20%E2%80%A2%20Laravel%20%E2%80%A2%20PHP%20%E2%80%A2%20AI%20Integration&descSize=18&descAlignY=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6D28D9,100:FF2D20&height=175&section=header&text=Yash%20Desai&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Senior%20Architect%20%E2%80%A2%20Laravel%20%E2%80%A2%20PHP%20%E2%80%A2%20AI%20Integration&descSize=17&descAlignY=70" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=6D28D9&center=true&vCenter=true&width=700&lines=17%2B+years+architecting+production+systems;Laravel+%7C+Symfony+%7C+CodeIgniter+%7C+Vue+%7C+AWS;Multi-agent+AI+workflows+%26+MCP+servers;Rescuing+and+scaling+legacy+PHP+applications" alt="Typing SVG" />
 
@@ -86,31 +86,15 @@ I pair senior architecture discipline with AI-augmented delivery: multi-agent wo
 
 ---
 
-### 📌 Selected Work
-
-| Project | What it does | Stack |
-|:---|:---|:---|
-| **[quick-mongo](https://github.com/yashdesai87/quick-mongo)** | Read-only MongoDB web UI in plain PHP — phpMyAdmin-style browsing of databases, collections, documents and GridFS. Docker image included. | `PHP` `MongoDB` `Docker` |
-| **[codeigniter-wordpress-bridge](https://github.com/yashdesai87/codeigniter-wordpress-bridge)** | WordPress plugin for CodeIgniter 3 database-session auth and subscriber provisioning, with explicit identity binding. | `PHP` `WordPress` `CI3` |
-| **[activity-feed-notification-system](https://github.com/yashdesai87/activity-feed-notification-system)** | Facebook-style activity feed and notification architecture for CodeIgniter. | `PHP` `MySQL` |
-| **[reddit-auto-commenter](https://github.com/yashdesai87/reddit-auto-commenter)** | Browser extension that generates contextual, LLM-authored comments on Reddit threads. | `JavaScript` `LLM` |
-
----
-
 ### 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yashdesai87&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=6D28D9&icon_color=FF2D20&theme=transparent" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdesai87&layout=compact&langs_count=8&hide_border=true&title_color=6D28D9&theme=transparent" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=yashdesai87&hide_border=true&ring=6D28D9&fire=FF2D20&currStreakLabel=6D28D9&background=transparent" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=yashdesai87&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=yashdesai87&hide_border=true&background=00000000&ring=6D28D9&fire=FF2D20&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A371F7&sideLabels=8B949E&dates=8B949E&stroke=30363D" />
+<source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=yashdesai87&hide_border=true&background=00000000&ring=6D28D9&fire=FF2D20&currStreakNum=24292F&sideNums=24292F&currStreakLabel=6D28D9&sideLabels=57606A&dates=57606A&stroke=D0D7DE" />
+<img src="https://streak-stats.demolab.com?user=yashdesai87&hide_border=true&background=00000000&ring=6D28D9&fire=FF2D20&currStreakNum=24292F&sideNums=24292F&currStreakLabel=6D28D9&sideLabels=57606A&dates=57606A&stroke=D0D7DE" alt="GitHub streak stats" />
+</picture>
 
 </div>
 
