@@ -1,4 +1,4 @@
-<div align="center">
+···—······<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:FF2D20&height=180&section=header&text=Yash%20Desai&fontSize=52&fontColor=ffffff&desc=Senior%20Architect%20%E2%80%A2%20Laravel%20%E2%80%A2%20PHP%20%E2%80%A2%20AI%20Integration&descSize=18&descAlignY=62" width="100%" />
 
