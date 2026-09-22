@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6D28D9,100:FF2D20&height=175&section=header&text=Yash%20Desai&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Senior%20Architect%20%E2%80%A2%20Laravel%20%E2%80%A2%20PHP%20%E2%80%A2%20AI%20Integration&descSize=17&descAlignY=70" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6D28D9,100:FF2D20&height=175&section=header&text=Yash%20Desai&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Senior%20Architect%20%E2%80%A2%20Laravel%20%E2%80%A2%20PHP%20%E2%80%A2%20AI%20Integration&descSize=17&descAlignY=70&animation=none" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=6D28D9&center=true&vCenter=true&width=700&lines=17%2B+years+architecting+production+systems;Laravel+%7C+Symfony+%7C+CodeIgniter+%7C+Vue+%7C+AWS;Multi-agent+AI+workflows+%26+MCP+servers;Rescuing+and+scaling+legacy+PHP+applications" alt="Typing SVG" />
 
@@ -91,9 +91,9 @@ I pair senior architecture discipline with AI-augmented delivery: multi-agent wo
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=yashdesai87&hide_border=true&background=00000000&ring=6D28D9&fire=FF2D20&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A371F7&sideLabels=8B949E&dates=8B949E&stroke=30363D" />
-<source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=yashdesai87&hide_border=true&background=00000000&ring=6D28D9&fire=FF2D20&currStreakNum=24292F&sideNums=24292F&currStreakLabel=6D28D9&sideLabels=57606A&dates=57606A&stroke=D0D7DE" />
-<img src="https://streak-stats.demolab.com?user=yashdesai87&hide_border=true&background=00000000&ring=6D28D9&fire=FF2D20&currStreakNum=24292F&sideNums=24292F&currStreakLabel=6D28D9&sideLabels=57606A&dates=57606A&stroke=D0D7DE" alt="GitHub streak stats" />
+<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=yashdesai87&hide_border=true&disable_animations=true&background=00000000&ring=6D28D9&fire=FF2D20&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A371F7&sideLabels=8B949E&dates=8B949E&stroke=30363D" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=yashdesai87&hide_border=true&disable_animations=true&background=00000000&ring=6D28D9&fire=FF2D20&currStreakNum=24292F&sideNums=24292F&currStreakLabel=6D28D9&sideLabels=57606A&dates=57606A&stroke=D0D7DE" />
+  <img src="https://streak-stats.demolab.com?user=yashdesai87&hide_border=true&disable_animations=true&background=00000000&ring=6D28D9&fire=FF2D20&currStreakNum=24292F&sideNums=24292F&currStreakLabel=6D28D9&sideLabels=57606A&dates=57606A&stroke=D0D7DE" alt="GitHub streak stats" />
 </picture>
 
 </div>
